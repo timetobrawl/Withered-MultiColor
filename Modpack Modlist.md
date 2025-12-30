@@ -1,5 +1,5 @@
 | Mod name | Resource Pack Features | Is Available As Of Beta 1.0 |
-|---------------|-------------------------------------|-----------------|
+|----------|---------|---------|
 | [Continuity](https://modrinth.com/mod/continuity/) | Connected Textures (CTM), Emissive Textures, Custom Block Layers. | ✔️ |
 | [Entity Model Features (EMF)](https://modrinth.com/mod/entity-model-features) | Custom Entity Models (CEM). | ✔️ |
 | [Entity Texture Features (ETF)](https://modrinth.com/mod/entitytexturefeatures) | Custom Entity Textures, Random Entity Textures, Emissive Entity Textures, Blinking Mobs, Player Skin Features. | ✔️ |
