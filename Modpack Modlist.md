@@ -1,4 +1,4 @@
-| Mod name | Resource Pack Features |
+| Mod name | Resource Pack Features | is available as of beta 1.0 |
 |---------------|---------------------|
 | [Continuity](https://modrinth.com/mod/continuity/) | Connected Textures (CTM), Emissive Textures, Custom Block Layers. |
 | [Entity Model Features (EMF)](https://modrinth.com/mod/entity-model-features) | Custom Entity Models (CEM). |
