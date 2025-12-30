@@ -3,7 +3,7 @@
 
 # Table of contents
 1. Included Mods
-2. Modpack Icon
+2. [Modpack Icon](https://github.com/timetobrawl/Withered-MultiColor/blob/6a9b7acff846cf18abc9e489f2af72662cff397a/Modpack%20Icon.png)
 
 # FAQ
 
