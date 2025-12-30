@@ -7,6 +7,6 @@
 | [Animatica](https://modrinth.com/mod/animatica) | Custom Animated Textures. |
 | [OptiGUI](https://modrinth.com/mod/optigui) | Custom GUI Screen Textures. |
 | [Skyboxify](https://modrinth.com/mod/skyboxify) | Custom Skies. |
-| [Variants-CIT](https://modrinth.com/mod/variants-cit) | Custom Item Textures (CIT) (**NOT OPTIFINE'S CIT FORMAT. THERE ARE NO MODS THAT COPIES OPTIFINE'S CIT FOR 1.21.10 AS OF NOW. FOR RESOURCE PACKS THAT INCLUDES CIT AND DOESNT MENTIONS THIS MOD AS SUPPORTED WILL NOT WORK.** |
+| [Variants-CIT](https://modrinth.com/mod/variants-cit) | Custom Item Textures (CIT) **(NOT OPTIFINE'S CIT FORMAT. THERE ARE NO MODS THAT COPIES OPTIFINE'S CIT FOR 1.21.10 AS OF NOW. FOR RESOURCE PACKS THAT INCLUDES CIT AND DOESNT MENTIONS THIS MOD AS SUPPORTED WILL NOT WORK.)** |
 | [Puzzle](https://modrinth.com/mod/puzzle) | Some Optifine Features such as Custom Splash Screen, United config screen for some resource pack mods. |
 | [BetterGrassify](https://modrinth.com/mod/bettergrassify) | Optifine's Better Grass |
