@@ -2,7 +2,7 @@
 [Withered Utils](https://github.com/Seminosowo/Withered-Utils) with Optifine exclusive resource pack support. If your resource pack says needs optifine or a mod or a modpack, then it's most likely supported here!
 
 # Table of contents
-1. Included Mods
+1. [Included Mods](https://github.com/timetobrawl/Withered-MultiColor/blob/99144047e33a8ef0f1db07831af701aa7084e5fe/Modpack%20Modlist.md)
 2. [Modpack Icon](https://github.com/timetobrawl/Withered-MultiColor/blob/6a9b7acff846cf18abc9e489f2af72662cff397a/Modpack%20Icon.png)
 
 # FAQ
