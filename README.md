@@ -5,6 +5,8 @@
 1. [Included Mods](https://github.com/timetobrawl/Withered-MultiColor/blob/99144047e33a8ef0f1db07831af701aa7084e5fe/Modpack%20Modlist.md)
 2. [Modpack Icon](https://github.com/timetobrawl/Withered-MultiColor/blob/6a9b7acff846cf18abc9e489f2af72662cff397a/Modpack%20Icon.png)
 
+This description is for 1.21.10! Go to the 1.21.11 branch to see the 1.21.11 description!
+
 # FAQ
 
 | Question | Awnser|
