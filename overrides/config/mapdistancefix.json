@@ -1,0 +1,8 @@
+{
+  "showDistance": true,
+  "showDistanceWhenOffMap": true,
+  "showDistanceInsideBoundaries": false,
+  "distanceFormat": "%dm",
+  "useShortUnits": true,
+  "shortUnitThreshold": 1000
+}
