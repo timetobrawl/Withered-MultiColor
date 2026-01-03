@@ -1,3 +1,7 @@
+# Notes
+**This Modlist is only for the mods added by this fork [here](https://github.com/Seminosowo/Withered-Utils/blob/e6b31ba53565966c16709de1f23cdb1e46a3261d/Modlist.md) for the rest of the mods.**
+
+# Mods
 | Mod name | Resource Pack Features |
 |----------|-------------------------|
 | [Continuity](https://modrinth.com/mod/continuity/) | Connected Textures (CTM), Emissive Textures, Custom Block Layers. |
