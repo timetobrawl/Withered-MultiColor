@@ -2,7 +2,7 @@
 **This Modlist is only for the mods added by this fork [here](https://github.com/Seminosowo/Withered-Utils/blob/5486eca17fb1befa94d66e6770cd4ded7990f597/Modlist.md) for the rest of the mods.**
 
 # Mods
-| Mod name | Resource Pack Features | Is Available As Of Beta 1.0 |
+| Mod name | Resource Pack Features | Has Updated |
 |----------|---------|---------|
 | [Continuity](https://modrinth.com/mod/continuity/) | Connected Textures (CTM), Emissive Textures, Custom Block Layers. | ✔️ |
 | [Entity Model Features (EMF)](https://modrinth.com/mod/entity-model-features) | Custom Entity Models (CEM). | ✔️ |
